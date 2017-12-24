@@ -11,6 +11,7 @@ namespace MyFirstConsoleApp1
         static void Main(string[] args)
         {
 			int i = 7;
+			int a = 5;
         }
     }
 }
